@@ -1,0 +1,96 @@
+trail 1, when step = 5, radius = 5:
+succedd as top1 for 84.21%
+succedd as top2 for 8.51%
+succedd as top3 for 3.12%
+can't be found as top3 for 4.16%
+It took 3660.9385991096497 seconds.
+trail 2, when step = 5, radius = 10:
+succedd as top1 for 84.27%
+succedd as top2 for 8.08%
+succedd as top3 for 3.29%
+can't be found as top3 for 4.36%
+It took 5314.650212526321 seconds.
+trail 3, when step = 5, radius = 15:
+succedd as top1 for 65.19%
+succedd as top2 for 10.85%
+succedd as top3 for 5.21%
+can't be found as top3 for 18.75%
+It took 6045.308532476425 seconds.
+trail 4, when step = 5, radius = 20:
+succedd as top1 for 32.44%
+succedd as top2 for 8.25%
+succedd as top3 for 5.67%
+can't be found as top3 for 53.64%
+It took 6423.109648227692 seconds.
+trail 5, when step = 10, radius = 5:
+succedd as top1 for 65.65%
+succedd as top2 for 12.68%
+succedd as top3 for 6.03%
+can't be found as top3 for 15.64%
+It took 6885.440990924835 seconds.
+trail 6, when step = 10, radius = 10:
+succedd as top1 for 61.24%
+succedd as top2 for 9.12%
+succedd as top3 for 4.96%
+can't be found as top3 for 24.68%
+It took 7241.786275148392 seconds.
+trail 7, when step = 10, radius = 15:
+succedd as top1 for 22.81%
+succedd as top2 for 4.65%
+succedd as top3 for 3.28%
+can't be found as top3 for 69.25%
+It took 7521.079802036285 seconds.
+trail 8, when step = 10, radius = 20:
+succedd as top1 for 8.8%
+succedd as top2 for 1.05%
+succedd as top3 for 0.76%
+can't be found as top3 for 89.39%
+It took 7768.453361272812 seconds.
+trail 9, when step = 15, radius = 5:
+succedd as top1 for 45.76%
+succedd as top2 for 11.39%
+succedd as top3 for 6.75%
+can't be found as top3 for 36.11%
+It took 8014.69678401947 seconds.
+trail 10, when step = 15, radius = 10:
+succedd as top1 for 16.96%
+succedd as top2 for 3.29%
+succedd as top3 for 2.31%
+can't be found as top3 for 77.44%
+It took 8232.192509889603 seconds.
+trail 11, when step = 15, radius = 15:
+succedd as top1 for 10.04%
+succedd as top2 for 1.36%
+succedd as top3 for 0.95%
+can't be found as top3 for 87.65%
+It took 8460.211223840714 seconds.
+trail 12, when step = 15, radius = 20:
+succedd as top1 for 6.68%
+succedd as top2 for 0.01%
+succedd as top3 for 0.0%
+can't be found as top3 for 93.31%
+It took 8683.226209402084 seconds.
+trail 13, when step = 20, radius = 5:
+succedd as top1 for 27.79%
+succedd as top2 for 9.24%
+succedd as top3 for 5.76%
+can't be found as top3 for 57.21%
+It took 8880.786963939667 seconds.
+trail 14, when step = 20, radius = 10:
+succedd as top1 for 13.27%
+succedd as top2 for 2.17%
+succedd as top3 for 1.52%
+can't be found as top3 for 83.04%
+It took 9092.199966430664 seconds.
+trail 15, when step = 20, radius = 15:
+succedd as top1 for 6.68%
+succedd as top2 for 0.04%
+succedd as top3 for 0.0%
+can't be found as top3 for 93.28%
+It took 9293.746440410614 seconds.
+trail 16, when step = 20, radius = 20:
+succedd as top1 for 6.68%
+succedd as top2 for 0.0%
+succedd as top3 for 0.0%
+can't be found as top3 for 93.32%
+It took 9516.155455589294 seconds.
